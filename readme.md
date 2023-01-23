@@ -52,6 +52,10 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> </p>
 
 ---
+|Profile Stats />|
+|---|
+|![Github Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anasbinfaisal&theme=tokyonight)|
+---
 
 |Stats />|Streak />|Languages />
 |---|---|---|
