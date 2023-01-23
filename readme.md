@@ -1,10 +1,11 @@
 <!-- [![MasterHead](https://support.squarespace.com/hc/article_attachments/360000358267/gif-example4.gif)]() -->
-<h1 align="center">السلام عليكم 👋, Anas Bin Faisal here</h1>
+<h1 align="center"> السلام عليكم👋</h1>
+<h1 align="center">Anas Bin Faisal here!</h1>
 <h3 align="center">I'm an electrical engineer and avid computer science learner having deep curiosity about future tech. I love to try and create new things.</h3>
 
 ---
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+MERN+stack+developer;I'm+a+competitive+programmer;I'm+a+Flutter+developer" />
+<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=36BCF7FF&size=32&lines=Welcome+to+my+GitHub+Profile!;I'm+a+MERN+Stack+developer;I'm+a+competitive+programmer;I'm+a+Flutter+developer" />
 </p>
 ---
 
@@ -44,8 +45,12 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
