@@ -18,7 +18,6 @@
 
 - 👯 I’m looking to collaborate on any complete java, flutter, MERN stack or python application with GUI
 
-- 👨‍💻 Some of my projects are available at [GitLab](https://gitlab.com/)
 
 - ⚡ In my free time I love reading tech articles and novels.
 
